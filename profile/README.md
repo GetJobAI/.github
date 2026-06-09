@@ -12,4 +12,4 @@
 - [Білоус А. А.](https://github.com/GetJobAI/pdf-generator/blob/main/docs/presentation.pdf)
 - [Малишкін А. С.](https://)
 - [Кириченко К. В.](https://)
-- [Третьякова Л. С.](https://)
+- [Третьякова Л. С.](https://github.com/GetJobAI/ai-optimizer/blob/master/docs/presentation.pdf)
