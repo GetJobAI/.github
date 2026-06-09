@@ -9,7 +9,7 @@
 Презентації:
 
 - [Ситник Є. С.](https://)
-- [Білоус А. ..](https://github.com/GetJobAI/pdf-generator/blob/main/docs/presentation.pdf)
-- [Малишкін А. ..](https://)
-- [Кіриченко К. ..](https://)
-- [Третякова Л. ..](https://)
+- [Білоус А. А.](https://github.com/GetJobAI/pdf-generator/blob/main/docs/presentation.pdf)
+- [Малишкін А. С.](https://)
+- [Кириченко К. В.](https://)
+- [Третьякова Л. С.](https://)
