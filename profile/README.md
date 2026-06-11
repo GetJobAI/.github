@@ -2,7 +2,7 @@
 
 ---
 
-[SRS](https://...)
+[SRS](https://github.com/NureSytnykYehor/coursework-2026/blob/main/2026_Б_ККП_ПЗПІ-23-2_Ситник_Є_С/2026_Б_ККП_ПЗПІ-23-2_Ситник_Є_С.pdf)
 
 ---
 
